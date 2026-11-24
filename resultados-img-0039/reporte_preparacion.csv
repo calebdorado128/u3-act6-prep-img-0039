@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+conejo,conejo1.png,OK,334,253,224,224,0.0,0.933,APROBADA
+conejo,conejo2.png,OK,566,562,224,224,0.0,1.0,APROBADA
+conejo,conejo3.png,OK,720,720,224,224,0.031,1.0,APROBADA
+conejo,conejo4.png,OK,1104,1472,224,224,0.012,1.0,APROBADA
+conejo,conejo5.png,OK,264,299,224,224,0.0,1.0,APROBADA
+liebre,liebre1.png,OK,534,534,224,224,0.0,1.0,APROBADA
+liebre,liebre2.png,OK,500,750,224,224,0.0,0.976,APROBADA
+liebre,liebre3.png,OK,736,920,224,224,0.004,0.929,APROBADA
+liebre,liebre4.png,OK,1200,1800,224,224,0.0,0.996,APROBADA
+liebre,liebre5.png,OK,400,294,224,224,0.004,0.996,APROBADA
